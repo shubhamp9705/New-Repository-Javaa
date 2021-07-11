@@ -70,6 +70,7 @@ public class BuyStocks {
 	
 	
 	
+	
 	public void clickuserID()
 	{
 		userID.click();
