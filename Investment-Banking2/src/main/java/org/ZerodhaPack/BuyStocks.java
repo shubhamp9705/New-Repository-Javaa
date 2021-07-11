@@ -79,5 +79,5 @@ public class BuyStocks {
 	{
 		logOut.click();
 	}
-
+      System.Out.Print("123");
 }
